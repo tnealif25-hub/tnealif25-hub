@@ -1,7 +1,8 @@
-# 🛡️ <ENTER YOUR FULL NAME> YOUR NAME
+
+# 🛡️ <ENTER YOUR FULL NAME> Tanasha Neal
 ## 👨‍💻 SECURITY ENGINEER | Cloud & Network Security | Ethical Hacker | Problem Solver  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/<your-linkedin>)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/tanasha-neal/)
 [![GitHub](https://img.shields.io/badge/GitHub-Portfolio-black)](https://github.com/<your-github>)
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-Profile-red)](https://tryhackme.com/p/<your-username>)
 [![HackTheBox](https://img.shields.io/badge/HackTheBox-Profile-green)](https://hackthebox.com/home/users/profile/<your-id>)
@@ -135,7 +136,7 @@ Analyzed logs, identified initial vector, and implemented post-incident improvem
 ## 📞 Contact & Links  
 
 📧 **Email:** [<your-email>](mailto:<your-email>)  
-💼 **LinkedIn:** [linkedin.com/in/<your-linkedin>](https://linkedin.com/in/<your-linkedin>)  
+💼 **LinkedIn:** [linkedin.com/in/tanasha-neal/](https://linkedin.com/in/<your-linkedin>)  
 💻 **GitHub:** [github.com/<your-github>](https://github.com/<your-github>)  
 🧩 **TryHackMe:** [tryhackme.com/p/<your-username>](https://tryhackme.com/p/<your-username>)  
 🔐 **HackTheBox:** [hackthebox.com/home/users/profile/<your-id>](https://hackthebox.com/home/users/profile/<your-id>)  
