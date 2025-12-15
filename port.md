@@ -40,7 +40,7 @@ Currently advancing my expertise in **cloud-native security**, **zero trust fram
 
 ## 🎯 Featured Projects  
 
-### 1. [**CyberByte**]
+### 1. **CyberByte**
  CyberByte capstone project focused on designing a full-scale security and operations platform tailored for retail and e-commerce businesses, combining cloud security, POS protection, compliance automation, and incident response into a modern managed service offering. The business entailed building three structured service tiers—CyberLite, CyberPro, and CyberMax—each addressing different levels of retailer maturity, from small boutiques to multi-site franchises. CyberByte included the development of SmartPatch™ automated patching, real-time threat detection using AWS GuardDuty, CloudWatch monitoring pipelines, and Lambda-based automated incident response workflows.
 
   
