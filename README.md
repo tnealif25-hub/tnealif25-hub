@@ -1,4 +1,3 @@
-
 # 🛡️ <ENTER YOUR FULL NAME> Tanasha Neal
 ## 👨‍💻 SECURITY ENGINEER | Cloud & Network Security | Problem Solver  
 
@@ -12,12 +11,12 @@
 
 ## 👋 About Me  
 
-Passionate **Security Engineer** with a focus on **cloud security, network defense, and threat detection.**  
+Passionate **Security Engineer** with a focus on **Cloud security, Network defense, and threat detection.**  
 I design, secure, and automate systems to ensure business continuity and data protection.  
 
 I enjoy solving complex security challenges, building detection pipelines, and creating automated responses to evolving cyber threats. My approach blends both the *offensive* and *defensive* sides of cybersecurity — from identifying misconfigurations to engineering secure architectures.  
 
-Currently advancing my expertise in **cloud-native security**, **zero trust frameworks**. My long-term goal is to become a **Cloud Security Architect**, helping organizations implement scalable, secure, and compliant infrastructures.  
+Currently advancing my expertise in **Cloud-native security**, **Zero trust frameworks**. My long-term goal is to become a **Cloud Security Architect**, helping organizations implement scalable, secure, and compliant infrastructures.  
 
 ---
 
@@ -588,5 +587,4 @@ All research, labs, and tests showcased here were conducted in **authorized lab 
 
 ---
 
-*Last Updated: December 2025*  
-
+*Last Updated: December 2025*
