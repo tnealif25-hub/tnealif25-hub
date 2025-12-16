@@ -12,12 +12,12 @@
 
 ## 👋 About Me  
 
-Passionate **Security Engineer** with a focus on **cloud security, network defense, and threat detection.**  
+Passionate **Security Engineer** with a focus on **Cloud security, Network defense, and Threat detection.**  
 I design, secure, and automate systems to ensure business continuity and data protection.  
 
 I enjoy solving complex security challenges, building detection pipelines, and creating automated responses to evolving cyber threats. My approach blends both the *offensive* and *defensive* sides of cybersecurity — from identifying misconfigurations to engineering secure architectures.  
 
-Currently advancing my expertise in **cloud-native security**, **zero trust frameworks****. My long-term goal is to become a **Cloud Security Architect**, helping organizations implement scalable, secure, and compliant infrastructures.  
+Currently advancing my expertise in **Cloud-native security**, **Zero trust frameworks**. My long-term goal is to become a **Cloud Security Architect**, helping organizations implement scalable, secure, and compliant infrastructures.  
 
 ---
 
@@ -43,11 +43,10 @@ Currently advancing my expertise in **cloud-native security**, **zero trust fram
 ### 1. **CyberByte**
  CyberByte capstone project focused on designing a full-scale security and operations platform tailored for retail and e-commerce businesses, combining cloud security, POS protection, compliance automation, and incident response into a modern managed service offering. The business entailed building three structured service tiers—CyberLite, CyberPro, and CyberMax—each addressing different levels of retailer maturity, from small boutiques to multi-site franchises. CyberByte included the development of SmartPatch™ automated patching, real-time threat detection using AWS GuardDuty, CloudWatch monitoring pipelines, and Lambda-based automated incident response workflows.
 
-  
 
 A detailed pricing and operational cost model was created using AWS service estimates to ensure scalability, profitability, and predictable resource usage. Overall, the CyberByte project demonstrated end-to-end capability in cloud engineering, cybersecurity operations, DevSecOps automation, compliance management, and security product design, showcasing a robust and realistic managed cybersecurity service for online 
 
-**Skills:** Cloud (AWS)
+**Skills:**  Cloud (AWS)
 
 -   IAM security design
     
@@ -103,8 +102,7 @@ A detailed pricing and operational cost model was created using AWS service esti
     
 -   Designed branded, neon-gradient digital imagery and architecture diagrams for presentations.
 
-**Tools:** 
-Cloud & Security Tools
+**Tools:**  Cloud & Security Tools
 
 -   AWS IAM
     
@@ -158,7 +156,7 @@ Cloud & Security Tools
 
 ---
 
-### 2. [**voyage and virtue**]
+### 2. **Voyage and Virtue**
 The Voyage & Virtue project was designed as a cloud-based, adversary-simulation and defensive security initiative built entirely in AWS, combining red team, blue team, and purple team methodologies. The project centered around a fictional lifestyle brand environment in order to safely emulate attacker behavior, test detection pipelines, and evaluate defensive readiness in a realistic cloud architecture.
 
   
@@ -283,8 +281,9 @@ The network was built using a multi-tiered VPC design with segmented subnets, se
 
 Created a strong mission statement, emphasizing self-discovery, elevate-your-journey mindset, and living with intention.
 
-**Tools:** 
-## AWS Cloud & Security Services
+**Tools:**  
+
+AWS Cloud & Security Services
 
 -   GuardDuty — threat detection (API misuse, recon, EC2 compromise)
     
@@ -338,122 +337,180 @@ Created a strong mission statement, emphasizing self-discovery, elevate-your-jou
 
 ---
 
-### 3. [**Cyberbyte**]
-The CyberByte capstone project focused on designing a full-scale security and operations platform tailored for retail and e-commerce businesses, combining cloud security, POS protection, compliance automation, and incident response into a modern managed service offering. The business entailed building three structured service tiers—CyberLite, CyberPro, and CyberMax—each addressing different levels of retailer maturity, from small boutiques to multi-site franchises. CyberByte included the development of SmartPatch™ automated patching, real-time threat detection using AWS GuardDuty, CloudWatch monitoring pipelines, and Lambda-based automated incident response workflows.
+### 3.  **Attack In The Box**
+ Attack-in-the-Box involved building a complete offensive and defensive cybersecurity lab environment using Oracle VirtualBox, designed to simulate real-world cyberattacks in a safe, controlled setting. The lab consisted of pfSense acting as the firewall and router, Kali Linux serving as the attacker machine, Metasploitable2 operating as the intentionally vulnerable target, and Snort functioning as the IDS/IPS for detection and prevention.
 
-  
+The project required configuring network segmentation, assigning IP ranges with DHCP, and establishing a fully isolated internal network to safely perform penetration testing. Offensive security tasks included reconnaissance with Nmap, exploiting known vulnerabilities using Metasploit, performing brute-force attempts with Hydra, testing SQL injection with SQLmap, and analyzing network traffic using Wireshark and Burp Suite. Connectivity tests, routing validation, and attack simulations confirmed that the lab functioned as a realistic cyber range environment.
 
-A detailed pricing and operational cost model was created using AWS service estimates to ensure scalability, profitability, and predictable resource usage. Overall, the CyberByte project demonstrated end-to-end capability in cloud engineering, cybersecurity operations, DevSecOps automation, compliance management, and security product design, showcasing a robust and realistic managed cybersecurity service for online businesses.
+The project demonstrated hands-on proficiency in networking, Linux command-line operations, exploitation techniques, intrusion detection, and firewall configuration. Overall, Attack-in-the-Box provided a foundational, real-world experience in ethical hacking and SOC analysis, helping build the practical skills required for cybersecurity roles.
 
-**Skills:**  
- -   IAM security design
+**Skills:**  Networking & Infrastructure
+
+-   Configuring internal networks in VirtualBox
     
--   AWS Security Hub compliance monitoring
+-   Understanding WAN vs. LAN routing
     
--   AWS Config rules, remediation, and control baselines
+-   Assigning static IPs and DHCP ranges
     
--   CloudWatch metrics, logs, and dashboards
+-   Verifying connectivity using ping, routing, DNS
     
--   Lambda automation for IR workflows
-    
--   S3 backup encryption & lifecycle management
-    
--   GuardDuty threat detection
-    
--   EC2 micro-agent deployment for monitoring  
-      
+-   Network segmentation for offensive vs. defensive testing
     
 
-### DevSecOps & Automation
+## Cybersecurity & Ethical Hacking
 
--   Terraform for Infrastructure-as-Code (IaC)
+-   Reconnaissance using Nmap
     
--   YAML configuration for rules, automation, and policies
+-   Vulnerability scanning and enumeration
     
--   CI/CD pipeline fundamentals
+-   Exploiting known vulnerabilities in Metasploitable2
     
--   Serverless automation workflows  
-      
+-   Gaining unauthorized access using Metasploit
     
-
-### SOC Operations & Governance
-
--   Detection engineering mapped to MITRE ATT&CK
+-   Performing brute-force attacks with Hydra
     
--   SOC documentation: escalation playbooks, IR workflows
+-   SQL injection testing with SQLmap
     
--   Compliance matrix creation & evidence mapping
+-   Traffic capture and packet inspection using Wireshark
+    
+-   Web application analysis using Burp Suite
     
 
-Log analysis and alert triage
+## Defensive Security / SOC Fundamentals
 
-**Highlights:**  
--   Designed a complete managed security service model (CyberLite, CyberPro, CyberMax).
+-   Configuring pfSense firewall rules
     
--   Built a multi-tier product offering tailored for retail and e-commerce businesses.
+-   Understanding WAN/LAN separation and NAT
     
--   Developed compliant, scalable cloud architecture covering POS systems, cloud apps, and online storefronts.
+-   Deploying Snort IDS/IPS in IPS mode
     
--   Created SmartPatch™, an automated patching concept for POS and cloud assets.
+-   Creating and testing detection rules
     
--   Implemented automated incident response workflows triggered by GuardDuty, CloudTrail, and Config events.
+-   Monitoring real-time alerts and logs
     
--   Created a polished business proposal, pricing model, and competitive analysis.
+-   Validating attack detection and automatic blocking
     
--   Designed branded, neon-gradient digital imagery and architecture diagrams for presentations.
+-   Understanding IDS/IPS signatures and rule sets
+    
+
+## Linux & System Administration
+
+-   Linux terminal commands (ifconfig, netstat, system navigation)
+    
+-   Managing user permissions and system processes
+    
+-   Installing and configuring Kali Linux tools
+    
+-   Working with Debian-based distributions
+    
+
+## Virtualization & Lab Engineering
+
+-   Building multi-VM environments using VirtualBox
+    
+-   Installing pfSense, Kali Linux, and Metasploitable2
+    
+-   Allocating VM resources (RAM, network adapters, storage)
+    
+-   Designing safe, isolated cybersecurity training labs
+
+**Key Achievements**
+
+-   Built a complete offensive–defensive cybersecurity lab from scratch using VirtualBox.
+    
+-   Designed a fully segmented network with pfSense acting as a realistic enterprise firewall and router.
+    
+-   Configured Snort IDS/IPS to detect and block real attacks performed from Kali Linux.
+    
+-   Successfully exploited Metasploitable2 using Metasploit
+    
+-   Demonstrated end-to-end cybersecurity workflow:
+    
+
+-   Recon → Enumeration → Exploitation → Detection → Response
+    
+
+-   Performed Wireshark packet analysis to observe attack traffic.
+    
+-   Validated security controls by confirming Snort flagged scans and blocked the attacking machine.
+    
+-   Produced a professional network diagram showing all components and IPs.
+    
+-   Practiced real-world SOC analysis by interpreting IDS events and system logs.
+    
+-   Strengthened foundational knowledge in cybersecurity, networking, Linux, and ethical hacking.
 
 **Tools:**   
-### Cloud & Security Tools
 
--   AWS IAM
+Offensive Tools (Kali Linux)
+
+-   Nmap – network scanning
     
--   AWS GuardDuty
+-   Metasploit Framework – exploitation
     
--   AWS Security Hub
+-   Burp Suite – web testing
     
--   AWS Config
+-   SQLmap – SQL injection testing
     
--   AWS CloudWatch
+-   Hydra – password brute-forcing
     
--   AWS Lambda
+-   Aircrack-ng – wireless testing
     
--   AWS WAF
+-   Wireshark – packet capture & analysis
     
--   EC2 Micro Agent (monitoring)  
+
+## Defensive Tools
+
+-   pfSense
+    
+
+-   Firewall rules
+    
+-   Routing
+    
+-   NAT
+    
+-   DHCP & DNS  
       
     
 
-### DevOps & Automation
-
--   Terraform
-    
--   YAML
-    
--   Automation scripting concepts
-    
--   Git/GitHub  
+-   Snort IDS/IPS  
       
     
 
-### Documentation & Reporting
-
--   Compliance Matrix tools (PCI/GDPR/NIST CSF)
+-   VRT rules
     
--   Incident response runbooks & playbooks
+-   Community signatures
     
--   Architecture diagrams
+-   Emerging Threats rules
     
--   SLA & SOP documentation  
-      
+-   IPS blocking mode
     
 
-### Design & Presentation
+## Virtualization & System Tools
 
--   Branding design for CyberByte
+-   Oracle VirtualBox
     
--   Slide deck creation
+-   Metasploitable2 (vulnerable machine)
     
--   DALL·E custom graphics for tiered services, automation, and cloud components
+-   Kali Linux
+    
+-   pfSense CE ISO
+    
+-   Linux terminal & network utilities
+    
+
+## Networking Tools
+
+-   ifconfig
+    
+-   ping
+    
+-   traceroute
+    
+-   netstat
+    
+-   DHCP/DNS utilities
 
 ---
 
@@ -467,7 +524,7 @@ Log analysis and alert triage
 
 ### Scripting & Infrastructure  
 - **Languages:**  Bash, PowerShell  
-- **Automation:** Terraform, Ansible, GitHub Actions  
+- **Automation:** Terraform,  GitHub Actions  
 - **Cloud Services:** EC2, S3, IAM, CloudTrail, Azure Defender  
 
 ---
@@ -488,6 +545,7 @@ Log analysis and alert triage
  - SOC Automation with SOAR tools  
  - AWS Detective & CloudTrail Lake  
  - Reverse Engineering & Malware Analysis  
+ 
 
 **Recent Training:**  
  - Coursera – Google Cybersecurity Professional Certificate  
@@ -528,4 +586,5 @@ All research, labs, and tests showcased here were conducted in **authorized lab 
 
 ---
 
-*Last Updated: December 2025* 
+*Last Updated: December 2025*  
+
